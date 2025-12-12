@@ -1,3 +1,4 @@
 <div class="about">
-    <p>Информация о нас</p>
+    <h3>Information about us</h3>
+
 </div>
