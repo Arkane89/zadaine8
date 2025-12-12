@@ -1,3 +1,4 @@
 <div class="about">
-    <p>Контакты/p>
+    <h3>Contacts</h3>
+
 </div>
